@@ -1,39 +1,41 @@
 <div align="center">
 
-<a name="top"></a>
+<a id="top"></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GOOGLE%20KEEP%20CLONE&fontSize=43&fontColor=ffffff&color=0:020617,35:312e81,70:4338ca,100:06b6d4&stroke=6366f1&strokeWidth=1&desc=A%20Modern%20Approach%20to%20Digital%20Note-Taking&descSize=16&descAlignY=65&animation=fadeIn" alt="Google Keep Clone animated banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:172554,55:3730A3,80:4F46E5,100:06B6D4&text=GOOGLE%20KEEP%20CLONE&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=YOUR%20IDEAS.%20YOUR%20SPACE.%20YOUR%20WORKFLOW.&descSize=15&descAlignY=58&animation=fadeIn&stroke=818CF8&strokeWidth=1" alt="Google Keep Clone premium gradient banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=650&lines=Capture+your+ideas.;Organize+your+thoughts.;Build+with+Python+and+Flask.;Designed+for+learning+and+innovation." alt="Animated project introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=650&lines=Capture+ideas+with+clarity.;Organize+thoughts+with+simplicity.;Powered+by+Python+and+Flask.;A+journey+through+full-stack+development." alt="Animated project tagline"/>
 
 <br/><br/>
 
 <a href="https://github.com/maahii-in/first-pratice-2021">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
 </a>
 <a href="https://github.com/maahii-in/first-pratice-2021/stargazers">
-<img src="https://img.shields.io/github/stars/maahii-in/first-pratice-2021?style=for-the-badge&logo=github&color=F59E0B&label=STARS" alt="Repository stars"/>
+<img src="https://img.shields.io/github/stars/maahii-in/first-pratice-2021?style=for-the-badge&logo=github&color=F59E0B" alt="Repository stars"/>
 </a>
 <a href="https://github.com/maahii-in/first-pratice-2021/network/members">
-<img src="https://img.shields.io/github/forks/maahii-in/first-pratice-2021?style=for-the-badge&logo=git&color=06B6D4&label=FORKS" alt="Repository forks"/>
+<img src="https://img.shields.io/github/forks/maahii-in/first-pratice-2021?style=for-the-badge&logo=git&color=06B6D4" alt="Repository forks"/>
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/FLASK-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
 <br/><br/>
 
-**A lightweight, web-based note-taking experience inspired by Google Keep.**
+**A lightweight note-taking application inspired by Google Keep.**
 
-*Simple interface · Python-powered backend · Modern web technologies*
+*Thoughtfully designed · Built for learning · Ready to evolve*
+
+<br/>
 
 </div>
 
@@ -41,70 +43,72 @@
 
 <div align="center">
 
-| 📝 Note-taking | 🎨 UI Design | ⚙️ Backend | 🚀 Development |
-|:---:|:---:|:---:|:---:|
-| Organize ideas | Clean interfaces | Flask & Python | Continuous learning |
+### ◆ Explore the Project ◆
 
-</div>
-
-## ✦ Navigation
-
-<div align="center">
-
-<a href="#-project-overview">Overview</a> &nbsp; ◆ &nbsp;
-<a href="#-features--capabilities">Features</a> &nbsp; ◆ &nbsp;
-<a href="#-technology-stack">Technology</a> &nbsp; ◆ &nbsp;
-<a href="#-visual-architecture">Architecture</a> &nbsp; ◆ &nbsp;
-<a href="#-github-analytics">Analytics</a> &nbsp; ◆ &nbsp;
-<a href="#-installation--setup">Setup</a> &nbsp; ◆ &nbsp;
-<a href="#-roadmap">Roadmap</a>
+[Overview](#-overview) · [Features](#-experience--features) · [Technology](#-technology-stack) · [Analytics](#-github-analytics) · [Architecture](#-system-architecture) · [Setup](#-getting-started) · [Roadmap](#-product-roadmap) · [Developer](#-developer)
 
 </div>
 
 ---
 
-## ✦ Project Overview
+# ◈ 01 — Overview
 
-<a name="project-overview"></a>
+<div align="center">
 
-**Google Keep Clone** is a web application inspired by the simplicity of Google Keep. It is built around the idea of capturing information through a straightforward interface while exploring the essential components of full-stack web development.
+### Ideas deserve a better place.
 
-The project combines Python and Flask on the backend with HTML, Tailwind CSS, and JavaScript on the frontend.
+</div>
 
-The primary goal is to build practical development experience through application design, server-side programming, frontend-backend communication, and source code management.
+**Google Keep Clone** is a web application inspired by the simplicity of digital note-taking. It combines a Python and Flask backend with a frontend developed using HTML, Tailwind CSS, and JavaScript.
+
+The project explores the foundations of full-stack web development, from designing a user interface to understanding server-side logic and frontend-backend communication.
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🎯 The Vision
+<h3>01</h3>
 
-Create a simple, accessible note-taking interface with a clear user experience and an extensible application structure.
+**Capture**
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🧠 The Learning Goal
-
-Develop practical skills in web technologies, application architecture, debugging, and professional project documentation.
+A foundation for collecting ideas and information.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🏗️ The Approach
+<h3>02</h3>
 
-Use established web technologies to understand how a browser interface connects to server-side application logic.
+**Organize**
+
+<br/>
+
+A starting point for structuring digital notes.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🔮 The Possibilities
+<h3>03</h3>
 
-Explore persistent storage, note organization, search, authentication, and deployment as future improvements.
+**Connect**
+
+<br/>
+
+Explore communication between frontend and backend.
+
+</td>
+<td align="center" width="25%">
+
+<h3>04</h3>
+
+**Improve**
+
+<br/>
+
+Expand the project through continuous development.
 
 </td>
 </tr>
@@ -112,68 +116,74 @@ Explore persistent storage, note organization, search, authentication, and deplo
 
 </div>
 
-## ✦ Features & Capabilities
+## ✦ Project Philosophy
 
-<a name="features-capabilities"></a>
+> Great software does not need to be complicated. It needs to solve a problem clearly, remain understandable, and provide room for improvement.
+
+This project emphasizes simplicity, readability, practical learning, and a foundation that can grow into a more complete application.
+
+---
+
+# ◈ 02 — Experience & Features
+
+<div align="center">
+
+### Designed around simplicity. Built around fundamentals.
+
+</div>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🎨
+### 🎨 Interface Design
 
-**Modern Interface**
+A clean visual foundation focused on clarity, layout, and consistent styling.
 
-A clean visual foundation with Tailwind CSS.
-
-</td>
-<td align="center" width="33%">
-
-### 🐍
-
-**Flask Backend**
-
-Python-based server-side application development.
+- HTML-based interface
+- Tailwind CSS styling
+- Component-friendly page structure
+- Responsive design as a development goal
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### ⚡
+### ⚙️ Backend Engineering
 
-**Frontend Logic**
+A Python-based backend that explores server-side application development.
 
-JavaScript for supported browser interactions.
+- Flask application framework
+- Routing and request handling
+- Python application logic
+- API integration where implemented
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-### 🔌
+### ⚡ Client-Side Interaction
 
-**API Concepts**
+JavaScript provides a foundation for interactive web experiences.
 
-Understanding requests, responses, and routes.
-
-</td>
-<td align="center">
-
-### 📱
-
-**Responsive Styling**
-
-A foundation for layouts across screen sizes.
+- Browser-side event handling
+- Communication with backend routes
+- Dynamic interface updates where implemented
+- Progressive enhancement opportunities
 
 </td>
-<td align="center">
+<td width="50%" valign="top">
 
-### 🛠️
+### 🚀 Future Potential
 
-**Extensible Design**
+The application can be extended with additional capabilities.
 
-A starting point for additional functionality.
+- Note editing and deletion
+- Search and filtering
+- Persistent database storage
+- User accounts and personalization
 
 </td>
 </tr>
@@ -181,265 +191,321 @@ A starting point for additional functionality.
 
 </div>
 
-*These items describe the project's technical focus and intended capabilities. Confirm each feature against the current implementation before presenting it as complete.*
+**Implementation note:** The cards describe the project's technical focus and potential capabilities. Confirm individual behaviors against the actual application before marking them as implemented.
 
 ---
 
-## ✦ Technology Stack
-
-<a name="technology-stack"></a>
+# ◈ 03 — Technology Stack
 
 <div align="center">
+
+### The tools behind the experience
+
+<br/>
 
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="58" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python" width="62" alt="Python"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/">
-<img src="https://skillicons.dev/icons?i=flask" width="58" alt="Flask"/>
+<img src="https://skillicons.dev/icons?i=flask" width="62" alt="Flask"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="58" alt="HTML"/>
+<img src="https://skillicons.dev/icons?i=html" width="62" alt="HTML"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="58" alt="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="62" alt="Tailwind CSS"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="58" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=js" width="62" alt="JavaScript"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="58" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git" width="62" alt="Git"/>
 </a>
 
 </div>
 
-| Technology | Responsibility | Documentation |
-|:---|:---|:---|
-| **Python** | Backend programming and application logic | [Python Docs](https://docs.python.org/3/) |
-| **Flask** | Routing and server-side request handling | [Flask Docs](https://flask.palletsprojects.com/) |
-| **HTML5** | Webpage structure and semantic content | [HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) |
-| **Tailwind CSS** | Layout, styling, and visual consistency | [Tailwind Docs](https://tailwindcss.com/docs) |
-| **JavaScript** | Client-side behavior and interactions | [JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| **Git & GitHub** | Version control and source code hosting | [Git Docs](https://git-scm.com/doc) |
-
----
-
-## ✦ Project Showcase
-
-<a name="project-showcase"></a>
+| Technology | Role in the project | Reference |
+|---|---|---|
+| Python | Backend programming and application logic | [Documentation](https://docs.python.org/3/) |
+| Flask | Web framework, routes, and request processing | [Documentation](https://flask.palletsprojects.com/) |
+| HTML5 | Semantic webpage structure | [Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| Tailwind CSS | Utility-based styling and layout | [Documentation](https://tailwindcss.com/docs) |
+| JavaScript | Client-side interactions | [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| Git | Source code version control | [Documentation](https://git-scm.com/doc) |
+| GitHub | Repository hosting and collaboration | [Documentation](https://docs.github.com/) |
 
 <div align="center">
 
-<img src="https://placehold.co/1000x520/0f172a/94a3b8?text=YOUR+APPLICATION+SCREENSHOT&font=montserrat" width="95%" alt="Replace with a screenshot of the running application"/>
-
-**Application Preview**
-
-*Replace this placeholder with an actual screenshot of your application.*
+`Python` &nbsp; → &nbsp; `Flask` &nbsp; → &nbsp; `Web Application`
 
 </div>
 
-<details>
-<summary><strong>📸 How to add your own screenshot</strong></summary>
-
-1. Run the application locally.
-2. Capture a screenshot of the interface.
-3. Create a folder called `assets` in the repository.
-4. Upload your screenshot as `assets/homepage.png`.
-5. Replace the placeholder image above with:
-
-```html
-<img src="assets/homepage.png" width="95%" alt="Google Keep Clone application"/>
-```
-
-Consider including additional screenshots of note creation, note management, and mobile layouts when those screens are implemented.
-
-</details>
-
 ---
 
-## ✦ Visual Architecture
+# ◈ 04 — Product Showcase
 
-<a name="visual-architecture"></a>
+<div align="center">
 
-The following diagram illustrates a possible architecture for this type of application.
+### See it in action
 
-```mermaid
-flowchart TB
-    USER(["👤 USER"])
-    subgraph FRONTEND["PRESENTATION LAYER"]
-        UI["HTML5 Interface"]
-        STYLE["Tailwind CSS"]
-        JS["JavaScript"]
-    end
-    subgraph BACKEND["APPLICATION LAYER"]
-        ROUTE["Flask Routes"]
-        LOGIC["Python Logic"]
-    end
-    DATA[("DATABASE / STORAGE<br/>If Implemented")]
+<!--
+Add a real application screenshot at assets/preview.png.
+Then remove the comment around the image below.
+-->
 
-    USER <--> UI
-    UI --- STYLE
-    UI <--> JS
-    JS <--> ROUTE
-    ROUTE <--> LOGIC
-    LOGIC <--> DATA
+<!-- <img src="assets/preview.png" width="94%" alt="Google Keep Clone application preview"/> -->
 
-    classDef user fill:#312e81,stroke:#818cf8,color:#ffffff
-    classDef front fill:#082f49,stroke:#22d3ee,color:#ffffff
-    classDef back fill:#064e3b,stroke:#34d399,color:#ffffff
-    classDef database fill:#4a044e,stroke:#e879f9,color:#ffffff
+<img src="https://placehold.co/1200x640/0F172A/94A3B8?font=montserrat&text=YOUR+APPLICATION+PREVIEW" width="94%" alt="Replace with an actual screenshot of the application"/>
 
-    class USER user
-    class UI,STYLE,JS front
-    class ROUTE,LOGIC back
-    class DATA database
-```
+*Replace this illustrative placeholder with a screenshot of your running application.*
 
-### Architecture Layers
+</div>
+
+### Visual documentation
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-**01 — Presentation**
+**01 — Home**
 
-HTML defines the structure, Tailwind CSS handles styling, and JavaScript manages browser-side behavior.
+<br/>
 
-</td>
-<td width="33%" valign="top">
-
-**02 — Application**
-
-Flask connects incoming requests to Python application logic and returns appropriate responses.
+Show the main application interface and layout.
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-**03 — Persistence**
+**02 — Interaction**
 
-A database or other storage mechanism may be connected to retain notes between sessions.
+<br/>
+
+Show an actual note creation or editing workflow.
+
+</td>
+<td align="center" width="33%">
+
+**03 — Responsive UI**
+
+<br/>
+
+Show how the application looks on mobile devices.
 
 </td>
 </tr>
 </table>
 
-*The diagram is conceptual. Modify it to reflect the actual routes, data flow, and persistence implementation.*
+</div>
 
-## ✦ Application Workflow
-
-```mermaid
-flowchart TD
-    A(["START"]) --> B["Open Web Application"]
-    B --> C["Load User Interface"]
-    C --> D{"User Action"}
-    D -->|Supported request| E["Frontend Sends Request"]
-    E --> F["Flask Handles Request"]
-    F --> G["Python Processes Logic"]
-    G --> H["Return Response"]
-    H --> I["Update Interface"]
-    D -->|Browse interface| I
-    I --> J(["CONTINUE"])
-
-    classDef start fill:#312e81,stroke:#818cf8,color:#ffffff
-    classDef step fill:#0f3b56,stroke:#22d3ee,color:#ffffff
-    classDef decision fill:#713f12,stroke:#fbbf24,color:#ffffff
-
-    class A,J start
-    class B,C,E,F,G,H,I step
-    class D decision
-```
-
-*This workflow illustrates the intended interaction pattern rather than a verified record of every currently implemented operation.*
+A real screenshot is much more valuable than a decorative placeholder when presenting your project to recruiters, collaborators, and other developers.
 
 ---
 
-## ✦ GitHub Analytics
-
-<a name="github-analytics"></a>
+# ◈ 05 — System Architecture
 
 <div align="center">
 
-### Account Statistics
+### From browser interaction to application logic
+
+</div>
+
+```mermaid
+flowchart TB
+    U(["👤 User"])
+    
+    subgraph CLIENT["CLIENT LAYER"]
+        UI["HTML Interface"]
+        CSS["Tailwind CSS"]
+        JS["JavaScript"]
+    end
+    
+    subgraph SERVER["SERVER LAYER"]
+        ROUTES["Flask Routes"]
+        LOGIC["Python Logic"]
+    end
+    
+    DB[("Data Storage<br/>If Implemented")]
+
+    U <--> UI
+    UI --- CSS
+    UI <--> JS
+    JS <--> ROUTES
+    ROUTES <--> LOGIC
+    LOGIC <--> DB
+
+    classDef user fill:#312E81,stroke:#818CF8,color:#FFFFFF
+    classDef client fill:#082F49,stroke:#22D3EE,color:#FFFFFF
+    classDef server fill:#064E3B,stroke:#34D399,color:#FFFFFF
+    classDef data fill:#4A044E,stroke:#E879F9,color:#FFFFFF
+
+    class U user
+    class UI,CSS,JS client
+    class ROUTES,LOGIC server
+    class DB data
+```
+
+### Architecture layers
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01. Presentation**
+
+HTML provides document structure, Tailwind CSS handles presentation, and JavaScript supports user interactions.
+
+</td>
+<td width="33%" valign="top">
+
+**02. Application**
+
+Flask routes incoming requests to Python logic, which processes the relevant application operations.
+
+</td>
+<td width="33%" valign="top">
+
+**03. Persistence**
+
+A database can be integrated to store notes beyond an individual application session.
+
+</td>
+</tr>
+</table>
+
+*The architecture is illustrative. Adjust the components and data flow to match your source code.*
+
+## Request lifecycle
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor User
+    participant Browser as Web Browser
+    participant Flask as Flask Backend
+    participant Logic as Python Logic
+    participant Store as Storage Layer
+
+    User->>Browser: Perform supported action
+    Browser->>Flask: Send HTTP request
+    Flask->>Logic: Process request
+    opt Persistent storage configured
+        Logic->>Store: Read or update data
+        Store-->>Logic: Return result
+    end
+    Logic-->>Flask: Application response
+    Flask-->>Browser: HTTP response
+    Browser-->>User: Display result
+```
+
+*This sequence describes a typical request-response pattern, not a verified record of the application's current implementation.*
+
+---
+
+# ◈ 06 — GitHub Analytics
+
+<div align="center">
+
+### Development activity at a glance
+
+<br/>
 
 <a href="https://github.com/maahii-in">
-<img src="https://github-readme-stats.vercel.app/api?username=maahii-in&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub account statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maahii-in&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub account overview"/>
 </a>
 <a href="https://github.com/maahii-in">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahii-in&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Programming languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahii-in&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Account language distribution"/>
 </a>
 
 <br/><br/>
 
-### Contribution Streak
+### Contribution streak
 
 <img src="https://streak-stats.demolab.com?user=maahii-in&theme=tokyonight&hide_border=true&border_radius=12" width="80%" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-### Contribution Activity
+### Contribution activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maahii-in&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
 
 <br/><br/>
 
-### Achievement Gallery
+### Profile achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=maahii-in&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub profile achievements"/>
+<img src="https://github-profile-trophy.vercel.app/?username=maahii-in&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub profile achievement cards"/>
+
+<br/><br/>
+
+<a href="https://github.com/maahii-in?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Repositories-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 </div>
 
 <details>
-<summary><strong>📊 About the analytics</strong></summary>
+<summary><strong>Understanding the graphs</strong></summary>
 
-The statistics cards, language distribution, streak tracker, activity graph, and achievement gallery are dynamically provided by third-party services.
+- **GitHub statistics:** Available account-level activity and repository statistics.
+- **Language distribution:** Detected programming languages across the account's repositories.
+- **Contribution streak:** Contribution activity calculated by the external provider.
+- **Activity graph:** A visualization of contribution history.
+- **Achievement cards:** Trophies generated according to the external provider's criteria.
 
-- Account statistics describe available GitHub account activity.
-- The language graph covers detected languages across the account's repositories.
-- The contribution graph and streak represent account-level activity.
-- Achievement cards are generated according to the provider's criteria.
-
-These are not project performance measurements. Graphs may require public profile information and may occasionally be unavailable.
+These graphics represent account-level information, not exclusively this project's performance. They depend on public account data and third-party services; some may require configuration or may occasionally be unavailable.
 
 </details>
 
 ---
 
-## ✦ Repository Structure
+# ◈ 07 — Repository Structure
 
 ```text
 first-pratice-2021/
 │
-├── .vscode/             # Editor configuration
-├── templates/           # HTML templates
-├── .gitignore           # Files excluded from version control
-├── README.md            # Project documentation
-├── app_v2.py            # Potential application entry point
-├── app.py.txt           # Verify and rename if necessary
-├── animi.txt            # Supporting file
-├── fasta3.txt           # Supporting file
-├── fasta4.txt           # Supporting file
-├── fastmain.txt         # Supporting file
-└── info.txt             # Project information
+├── .vscode/           # Editor configuration
+├── templates/         # HTML templates
+├── .gitignore         # Git ignore configuration
+├── README.md          # Project documentation
+├── app_v2.py          # Potential application entry point
+├── app.py.txt         # Verify and rename if appropriate
+├── animi.txt          # Supporting file
+├── fasta3.txt         # Supporting file
+├── fasta4.txt         # Supporting file
+├── fastmain.txt       # Supporting file
+└── info.txt           # Project information
 ```
 
-*The tree reflects the repository information visible in the provided screenshot. Update the filenames and descriptions after reviewing the actual source files.*
+The structure is based on the repository screenshot. Verify the purpose of each file and update this section as the project evolves.
+
+**Recommended improvement:** If `app.py.txt` is intended to contain Python application code, rename it to `app.py` and ensure that the entry point is clearly documented.
 
 ---
 
-## ✦ Installation & Setup
+# ◈ 08 — Getting Started
 
-<a name="installation-setup"></a>
+<div align="center">
 
-### Prerequisites
+### Set up your local development environment
+
+</div>
+
+## Prerequisites
+
+Make sure the following tools are installed:
 
 - Python 3
 - pip
 - Git
 - A modern web browser
+
+## Installation
 
 ### Step 01 — Clone the repository
 
@@ -470,113 +536,205 @@ source venv/bin/activate
 
 ### Step 04 — Install dependencies
 
-If `requirements.txt` exists:
+If `requirements.txt` is available:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Otherwise, install the packages required by the code. For a basic Flask application:
+Otherwise, install the application's actual dependencies. For a basic Flask application:
 
 ```bash
 pip install Flask
 ```
 
-### Step 05 — Start the application
+### Step 05 — Launch the application
 
-If `app_v2.py` is the actual entry point:
+If `app_v2.py` is the main application file:
 
 ```bash
 python app_v2.py
 ```
 
-Otherwise, substitute the correct Python filename.
+Substitute the correct filename if another file starts the application.
 
 ### Step 06 — Open the application
 
-Navigate to the local URL printed in the terminal. Flask's default development URL is commonly:
+Navigate to the local address printed in your terminal, commonly:
 
 ```text
 http://127.0.0.1:5000
 ```
 
-> **Development note:** Flask's development server is intended for local development and testing. Use an appropriate production server and deployment configuration when publishing the application.
+> **Note:** The instructions above assume a conventional Flask configuration. Verify the entry point, dependencies, and port against your actual code. Use a production-appropriate server when deploying publicly.
 
 ---
 
-## ✦ Development Standards
-
-To keep the project maintainable as it evolves:
-
-| Area | Recommended Practice |
-|:---|:---|
-| Code quality | Use descriptive names and keep functions focused |
-| Configuration | Separate environment-specific settings from source code |
-| Dependencies | Maintain an accurate `requirements.txt` |
-| Security | Never commit passwords, tokens, or secret keys |
-| Testing | Verify routes and functionality after changes |
-| Documentation | Keep setup instructions aligned with the code |
-| Version control | Use focused commits and meaningful branch names |
-
-## ✦ Roadmap
+# ◈ 09 — Development Standards
 
 <div align="center">
 
-| Phase | Milestone | Status |
-|:---:|:---|:---:|
-| 01 | Flask application foundation | Review |
-| 02 | Frontend interface | Review |
-| 03 | Frontend-backend integration | Review |
-| 04 | Complete note management | Planned |
-| 05 | Search and categorization | Planned |
-| 06 | Database persistence | Planned |
-| 07 | Authentication and authorization | Planned |
-| 08 | Automated testing | Planned |
-| 09 | Production deployment | Planned |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧹 Code Quality
+
+- Use clear naming conventions.
+- Keep functions focused.
+- Avoid unnecessary duplication.
+- Maintain a readable project structure.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Security
+
+- Never commit secrets or passwords.
+- Validate incoming requests.
+- Keep dependencies updated.
+- Protect user data where applicable.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Testing
+
+- Verify application startup.
+- Test supported routes.
+- Check user interactions.
+- Investigate server errors.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Documentation
+
+- Document installation steps.
+- Keep dependencies accurate.
+- Explain configuration requirements.
+- Update screenshots after UI changes.
+
+</td>
+</tr>
+</table>
 
 </div>
 
+---
+
+# ◈ 10 — Product Roadmap
+
+<div align="center">
+
+### Building toward a more complete application
+
+</div>
+
+```mermaid
+flowchart LR
+    A["01<br/>Foundation"] --> B["02<br/>Core Notes"]
+    B --> C["03<br/>Organization"]
+    C --> D["04<br/>Persistence"]
+    D --> E["05<br/>Authentication"]
+    E --> F["06<br/>Deployment"]
+
+    classDef foundation fill:#312E81,stroke:#818CF8,color:#FFFFFF
+    classDef future fill:#0F3B56,stroke:#22D3EE,color:#FFFFFF
+
+    class A foundation
+    class B,C,D,E,F future
+```
+
+| Phase | Planned improvement | Status |
+|:---:|---|:---:|
+| 01 | Review the existing Flask application | Review |
+| 02 | Implement complete note management | Planned |
+| 03 | Add search and categorization | Planned |
+| 04 | Introduce persistent data storage | Planned |
+| 05 | Add authentication and authorization | Planned |
+| 06 | Add automated tests | Planned |
+| 07 | Prepare production deployment | Planned |
+
+*Update the status of each milestone when the corresponding work has been completed and tested.*
+
+## Potential feature extensions
+
 <details>
-<summary><strong>🚀 Future feature ideas</strong></summary>
+<summary><strong>📝 Note management</strong></summary>
 
-**Note management**
-- Create, edit, and delete notes.
-- Pin important notes.
-- Archive and restore notes.
+Create, edit, delete, pin, archive, and restore notes.
 
-**Organization**
-- Search by title or content.
-- Add labels and categories.
-- Apply custom note colors.
+</details>
 
-**Reliability**
-- Persist notes in a database.
-- Add automated tests.
-- Improve accessibility and error handling.
+<details>
+<summary><strong>🔎 Search and organization</strong></summary>
 
-**Deployment**
-- Configure production environment variables.
-- Deploy through a suitable hosting platform.
-- Document setup and maintenance procedures.
+Add title and content search, labels, categories, and note colors.
 
-These items are suggestions for future development, not confirmed features of the existing implementation.
+</details>
+
+<details>
+<summary><strong>💾 Data persistence</strong></summary>
+
+Introduce SQLite or another appropriate database with safe input validation and reliable error handling.
+
+</details>
+
+<details>
+<summary><strong>🔑 Authentication</strong></summary>
+
+Implement user accounts, secure session management, and access controls for personal notes.
+
+</details>
+
+<details>
+<summary><strong>🚀 Deployment</strong></summary>
+
+Configure production settings, dependency management, deployment automation, and application monitoring.
 
 </details>
 
 ---
 
-## ✦ Contributing
+# ◈ 11 — Development Workflow
 
-Contributions, constructive feedback, and improvements are welcome.
+<div align="center">
 
-1. Fork the repository.
-2. Create a feature branch.
-3. Implement your changes.
-4. Test the updated functionality.
-5. Commit your work with a descriptive message.
-6. Submit a pull request explaining the improvement.
+### A structured approach to making improvements
 
-Example:
+</div>
+
+```mermaid
+flowchart TD
+    A(["Identify an Improvement"])
+    B["Create a Feature Branch"]
+    C["Implement the Change"]
+    D["Test the Application"]
+    E{"Tests Pass?"}
+    F["Revise the Implementation"]
+    G["Commit the Changes"]
+    H["Push to GitHub"]
+    I(["Review and Merge"])
+
+    A --> B --> C --> D --> E
+    E -->|No| F --> C
+    E -->|Yes| G --> H --> I
+
+    classDef start fill:#312E81,stroke:#818CF8,color:#FFFFFF
+    classDef process fill:#0F3B56,stroke:#22D3EE,color:#FFFFFF
+    classDef decision fill:#713F12,stroke:#FBBF24,color:#FFFFFF
+    classDef success fill:#064E3B,stroke:#34D399,color:#FFFFFF
+
+    class A start
+    class B,C,D,F,G,H process
+    class E decision
+    class I success
+```
+
+### Example Git commands
 
 ```bash
 git checkout -b feature/note-search
@@ -585,57 +743,89 @@ git commit -m "Add note search functionality"
 git push -u origin feature/note-search
 ```
 
-Only use a feature branch when you are ready to implement that feature.
-
-## ✦ Security
-
-Please avoid publishing passwords, API keys, access tokens, or private configuration values.
-
-Validate incoming data on the server, protect any user-specific resources, and review dependencies before deploying the application.
-
-## ✦ License
-
-No license has been confirmed for this project. Add a `LICENSE` file before specifying reuse, redistribution, or modification terms.
+These commands illustrate a development workflow. Use a branch name and commit message that accurately describe your changes.
 
 ---
 
-## ✦ About the Developer
+# ◈ 12 — Learning Outcomes
+
+This project provides practical experience with:
+
+| Area | Learning objective |
+|---|---|
+| Backend | Understanding Python application logic and Flask routing |
+| Frontend | Building interfaces using HTML and Tailwind CSS |
+| Interactivity | Working with JavaScript and browser events |
+| Integration | Understanding HTTP requests and responses |
+| Debugging | Identifying and resolving application errors |
+| Version control | Managing branches, commits, and repository history |
+| Documentation | Communicating setup requirements and design decisions |
+
+---
+
+# ◈ 13 — Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Make a focused change.
+4. Test the updated functionality.
+5. Commit with a descriptive message.
+6. Open a pull request explaining your contribution.
+
+Please ensure any new features are documented and tested before submission.
+
+# ◈ 14 — Security
+
+Avoid publishing API keys, passwords, tokens, private credentials, or other sensitive information.
+
+Before deployment, review environment configuration, incoming data validation, access controls, and dependency security.
+
+# ◈ 15 — License
+
+No license has been confirmed for this repository. Add a `LICENSE` file before specifying how others may use, modify, or distribute the project.
+
+---
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06B6D4,50:6366F1,100:9333EA" alt="Gradient divider"/>
+
+# ◈ The Developer
+
 <a href="https://github.com/maahii-in">
-<img src="https://github.com/maahii-in.png" width="125" alt="MAHI BUDATI GitHub avatar"/>
+<img src="https://github.com/maahii-in.png" width="130" alt="GitHub profile avatar"/>
 </a>
 
 ### MAHI BUDATI
 
 **Aspiring Developer · Python · Flask · Web Development**
 
-Building practical projects to strengthen software development skills, explore new technologies, and turn ideas into working applications.
+Building practical applications, exploring new technologies, and continuously improving software development skills.
 
 <br/>
 
 <a href="https://github.com/maahii-in">
-<img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GITHUB-VIEW_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Developer GitHub profile"/>
 </a>
-
-<br/><br/>
-
 <a href="https://github.com/maahii-in/first-pratice-2021">
-<img src="https://img.shields.io/badge/EXPLORE_THE_REPOSITORY-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore repository"/>
+<img src="https://img.shields.io/badge/PROJECT-VIEW_REPOSITORY-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Project repository"/>
 </a>
 
 <br/><br/>
 
-### Thank you for visiting!
+### Thanks for exploring this project.
 
-*Every project is an opportunity to learn, build, and improve.*
+*Every line of code is an opportunity to learn something new.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4338ca,100:020617&height=130&section=footer" alt="Decorative footer banner"/>
+<br/>
 
-<a href="#top">↑ Back to Top</a>
+<a href="#top">
+<img src="https://img.shields.io/badge/↑_BACK_TO_TOP-0F172A?style=for-the-badge&logoColor=white" alt="Back to top"/>
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,35:4F46E5,70:312E81,100:020617" alt="Gradient footer"/>
 
 </div>
-
-<!-- End of README.md -->
 
