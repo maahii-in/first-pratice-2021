@@ -2,38 +2,43 @@
 
 <a id="top"></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:020617,20:172554,45:312E81,70:4F46E5,100:06B6D4&text=GOOGLE%20KEEP%20CLONE&fontSize=45&fontColor=FFFFFF&fontAlignY=37&desc=Ideas%20deserve%20a%20beautiful%20place.&descSize=17&descAlignY=57&animation=fadeIn&stroke=818CF8&strokeWidth=1" alt="Google Keep Clone premium banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:172554,45:312E81,70:4F46E5,100:06B6D4&text=GOOGLE%20KEEP%20CLONE&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=YOUR%20THOUGHTS.%20YOUR%20SPACE.&descSize=18&descAlignY=56&animation=fadeIn" alt="Google Keep Clone hero banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=670&lines=Capture+Ideas.;Organize+Your+World.;Create+With+Python+%26+Flask.;Learn.+Build.+Evolve." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=650&lines=Capture+Ideas+%E2%9C%A8;Organize+Your+World+%F0%9F%92%AB;Powered+by+Python+%26+Flask;Designed+to+Learn.+Built+to+Evolve." alt="Animated introduction"/>
 
 <br/><br/>
 
 <a href="https://github.com/maahii-in/first-pratice-2021">
-<img src="https://img.shields.io/badge/EXPLORE_THE_PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
 </a>
 <a href="https://github.com/maahii-in/first-pratice-2021/stargazers">
-<img src="https://img.shields.io/github/stars/maahii-in/first-pratice-2021?style=for-the-badge&logo=github&color=F59E0B" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/maahii-in/first-pratice-2021?style=for-the-badge&logo=github&color=F59E0B" alt="Stars"/>
 </a>
 <a href="https://github.com/maahii-in/first-pratice-2021/network/members">
-<img src="https://img.shields.io/github/forks/maahii-in/first-pratice-2021?style=for-the-badge&logo=git&color=06B6D4" alt="GitHub forks"/>
+<img src="https://img.shields.io/github/forks/maahii-in/first-pratice-2021?style=for-the-badge&logo=git&color=06B6D4" alt="Forks"/>
+</a>
+<a href="https://github.com/maahii-in/first-pratice-2021/commits">
+<img src="https://img.shields.io/github/last-commit/maahii-in/first-pratice-2021?style=for-the-badge&color=8B5CF6" alt="Last commit"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FLASK-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
 <br/><br/>
 
-**A lightweight note-taking web application inspired by Google Keep.**
+### A Minimalist Approach to Digital Note-Taking
 
-*Minimal concept. Modern web technologies. Endless opportunities to improve.*
+*A web development project inspired by Google Keep, built with Python, Flask, and modern frontend technologies.*
+
+<br/>
 
 </div>
 
@@ -41,135 +46,120 @@
 
 <div align="center">
 
-## ◈ YOUR PROJECT AT A GLANCE
+## ◈ PROJECT DASHBOARD
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-#### 🎯 PROJECT
+<img src="https://img.shields.io/badge/01-4F46E5?style=for-the-badge" alt="01"/>
 
-**Google Keep Clone**
+**PROJECT**
 
-A web development project exploring the foundations of digital note-taking and full-stack application development.
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-#### 🛠️ BUILT WITH
-
-**Python + Flask**
-
-Combined with HTML, Tailwind CSS, and JavaScript for frontend and backend development.
+Google Keep Clone
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-#### 🎨 DESIGN DIRECTION
+<img src="https://img.shields.io/badge/02-0891B2?style=for-the-badge" alt="02"/>
 
-**Simple & Intuitive**
+**BACKEND**
 
-A design philosophy focused on readability, clarity, and ease of use.
+<br/>
+
+Python + Flask
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-#### 🚀 DEVELOPMENT GOAL
+<img src="https://img.shields.io/badge/03-7C3AED?style=for-the-badge" alt="03"/>
 
-**Learn by Building**
+**FRONTEND**
 
-Explore application architecture, interface design, request handling, and version control.
+<br/>
+
+HTML + Tailwind CSS
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/04-059669?style=for-the-badge" alt="04"/>
+
+**PURPOSE**
+
+<br/>
+
+Full-Stack Learning
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
 
-### ✦ NAVIGATION ✦
+### Quick Navigation
+
+<a href="#-01--about-the-project">ABOUT</a> &nbsp; ◆ &nbsp;
+<a href="#-02--visual-feature-gallery">FEATURES</a> &nbsp; ◆ &nbsp;
+<a href="#-03--technology-stack">TECH STACK</a> &nbsp; ◆ &nbsp;
+<a href="#-04--product-showcase">SHOWCASE</a> &nbsp; ◆ &nbsp;
+<a href="#-05--github-analytics">GRAPHS</a> &nbsp; ◆ &nbsp;
+<a href="#-06--system-design">ARCHITECTURE</a> &nbsp; ◆ &nbsp;
+<a href="#-08--installation">SETUP</a> &nbsp; ◆ &nbsp;
+<a href="#-10--developer-profile">DEVELOPER</a>
 
 </div>
-
-| Section | Explore |
-|:---|:---|
-| `01` | [Project Overview](#-01--the-project) |
-| `02` | [Visual Features](#-02--feature-showcase) |
-| `03` | [Technology Stack](#-03--technology-ecosystem) |
-| `04` | [Application Preview](#-04--the-product) |
-| `05` | [GitHub Analytics](#-05--developer-analytics) |
-| `06` | [System Architecture](#-06--system-architecture) |
-| `07` | [Setup Guide](#-07--getting-started) |
-| `08` | [Development Roadmap](#-08--roadmap) |
-| `09` | [Developer Profile](#-09--the-developer) |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=01%20%20%2F%2F%20%20ABOUT%20THE%20PROJECT&fontSize=22&fontColor=FFFFFF" alt="About section header"/>
 
-# ◈ 01 / THE PROJECT
-
-### A simple idea, built with modern web technologies
+### Ideas deserve a beautiful place.
 
 </div>
 
-**Google Keep Clone** is a web application inspired by the simplicity of Google Keep. It combines a Python and Flask backend with a frontend created using HTML, Tailwind CSS, and JavaScript.
+**Google Keep Clone** is a lightweight web application inspired by the simplicity of Google Keep. It combines a Python and Flask backend with a frontend built using HTML, Tailwind CSS, and JavaScript.
 
-The project serves as a practical foundation for learning full-stack development, exploring frontend-backend communication, and understanding the structure of a web application.
+The project explores the foundations of full-stack web development, including interface design, server-side logic, frontend-backend communication, and source code management with Git and GitHub.
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 01
+### 🎯 The Vision
 
-**Capture**
-
-<br/>
-
-Explore the foundations of digital note-taking.
+Create a simple and intuitive note-taking experience with a clean interface and a maintainable application structure.
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 02
+### 💡 The Approach
 
-**Design**
-
-<br/>
-
-Create clean and understandable interfaces.
+Use established web technologies to understand the complete lifecycle of a browser-based application.
 
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 03
+### 🧠 The Learning
 
-**Connect**
-
-<br/>
-
-Understand communication between application layers.
+Explore Flask routing, Python logic, web styling, JavaScript interactions, and software documentation.
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 04
+### 🚀 The Opportunity
 
-**Evolve**
-
-<br/>
-
-Build on the project with future improvements.
+Use the project as a foundation for future work in persistence, search, authentication, and deployment.
 
 </td>
 </tr>
@@ -177,92 +167,118 @@ Build on the project with future improvements.
 
 </div>
 
-### The philosophy
-
-> Technology becomes powerful when it transforms complicated tasks into simple experiences.
-
-The project emphasizes readable code, a clear interface, practical experimentation, and a foundation that can be expanded over time.
+> **Design principle:** Keep the experience simple, the code understandable, and the architecture flexible enough to improve over time.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=02%20%20%2F%2F%20%20VISUAL%20FEATURE%20GALLERY&fontSize=21&fontColor=FFFFFF" alt="Features section header"/>
 
-# ◈ 02 / FEATURE SHOWCASE
-
-### The building blocks of the application
+### Built around simplicity. Designed for growth.
 
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-6366F1?style=for-the-badge&logo=figma&logoColor=white" alt="Design feature"/>
 
 ### 🎨 Interface Design
 
-Create a clean visual foundation using standard web technologies.
+</div>
 
-- HTML page structure
-- Tailwind CSS styling
-- Consistent visual hierarchy
+Explore clean layouts, readable content, and consistent visual styling through HTML and Tailwind CSS.
+
+**Focus areas**
+
+- Clear page structure
+- Consistent styling
+- Usable visual hierarchy
 - Responsive layout as a design goal
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Backend Development
+<div align="center">
 
-Explore Python application logic with Flask.
+<img src="https://img.shields.io/badge/02-0891B2?style=for-the-badge&logo=python&logoColor=white" alt="Backend feature"/>
 
-- Server-side request handling
+### ⚙️ Backend Engineering
+
+</div>
+
+Develop a Python-based backend using Flask for server-side application logic.
+
+**Focus areas**
+
 - Application routes
-- Backend processing
-- API integration where implemented
+- HTTP request handling
+- Python logic
+- Backend integration
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Frontend Interactivity
+<div align="center">
 
-Use JavaScript to support browser-side behavior.
+<img src="https://img.shields.io/badge/03-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" alt="Frontend feature"/>
+
+### ⚡ Client-Side Interaction
+
+</div>
+
+Use JavaScript to explore how browser interactions connect to server-side functionality.
+
+**Focus areas**
 
 - Event handling
-- Client-side interactions
-- Communication with backend endpoints
+- Client-side behavior
+- API communication where implemented
 - Dynamic updates where implemented
 
 </td>
 <td width="50%" valign="top">
 
-### 🔮 Future Possibilities
+<div align="center">
 
-Potential extensions for a more complete note-taking application.
+<img src="https://img.shields.io/badge/04-059669?style=for-the-badge&logo=rocket&logoColor=white" alt="Future improvements"/>
 
-- Create, edit, and delete notes
-- Search and organization
-- Persistent storage
-- User accounts and personalization
+### 🚀 Future Potential
+
+</div>
+
+Expand the application with additional capabilities as the project develops.
+
+**Potential improvements**
+
+- Search and filtering
+- Note editing and deletion
+- Persistent database storage
+- Authentication and personalization
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>Explore potential feature improvements</strong></summary>
+<summary><strong>✦ Explore future feature possibilities</strong></summary>
 
-| Feature | Purpose |
+| Capability | Potential benefit |
 |:---|:---|
-| Search | Find notes by title or content |
-| Labels | Organize related information |
-| Pinning | Keep important notes accessible |
-| Colors | Visually distinguish different notes |
-| Database | Preserve information across sessions |
-| Authentication | Protect personalized user content |
+| Note management | Create, edit, delete, pin, and archive notes |
+| Search | Find content efficiently |
+| Labels and categories | Organize information |
+| Colors | Visually distinguish notes |
+| Database integration | Preserve data between sessions |
+| Authentication | Support individual user accounts |
 
-These are possible enhancements. Keep only features that are implemented and verified in the current application when describing the product as complete.
+These items are possible enhancements. Describe them as completed features only after confirming they work in the application.
 
 </details>
 
@@ -270,53 +286,84 @@ These are possible enhancements. Keep only features that are implemented and ver
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=03%20%20%2F%2F%20%20TECHNOLOGY%20STACK&fontSize=22&fontColor=FFFFFF" alt="Technology section header"/>
 
-# ◈ 03 / TECHNOLOGY ECOSYSTEM
-
-### The tools behind the experience
+### The tools powering the project
 
 <br/>
 
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="68" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python" width="65" alt="Python"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/">
-<img src="https://skillicons.dev/icons?i=flask" width="68" alt="Flask"/>
+<img src="https://skillicons.dev/icons?i=flask" width="65" alt="Flask"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="68" alt="HTML"/>
+<img src="https://skillicons.dev/icons?i=html" width="65" alt="HTML"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="68" alt="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" alt="Tailwind CSS"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="68" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=js" width="65" alt="JavaScript"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="68" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git" width="65" alt="Git"/>
 </a>
 
 </div>
 
-| Technology | Function | Official Resource |
-|:---|:---|:---|
-| Python | Backend programming | [Explore](https://docs.python.org/3/) |
-| Flask | Web application framework | [Explore](https://flask.palletsprojects.com/) |
-| HTML5 | Document structure | [Explore](https://developer.mozilla.org/en-US/docs/Web/HTML) |
-| Tailwind CSS | UI styling | [Explore](https://tailwindcss.com/docs) |
-| JavaScript | Frontend interactions | [Explore](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| Git | Version control | [Explore](https://git-scm.com/doc) |
-| GitHub | Repository hosting | [Explore](https://docs.github.com/) |
+<table>
+<tr>
+<th align="left">Technology</th>
+<th align="left">Role</th>
+<th align="left">Documentation</th>
+</tr>
+<tr>
+<td>🐍 Python</td>
+<td>Backend programming</td>
+<td><a href="https://docs.python.org/3/">Python Docs</a></td>
+</tr>
+<tr>
+<td>🌶️ Flask</td>
+<td>Web framework and request routing</td>
+<td><a href="https://flask.palletsprojects.com/">Flask Docs</a></td>
+</tr>
+<tr>
+<td>🌐 HTML5</td>
+<td>Page structure and content</td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML Docs</a></td>
+</tr>
+<tr>
+<td>🎨 Tailwind CSS</td>
+<td>Styling and layout</td>
+<td><a href="https://tailwindcss.com/docs">Tailwind Docs</a></td>
+</tr>
+<tr>
+<td>⚡ JavaScript</td>
+<td>Client-side interactions</td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript Docs</a></td>
+</tr>
+<tr>
+<td>🔀 Git</td>
+<td>Version control</td>
+<td><a href="https://git-scm.com/doc">Git Docs</a></td>
+</tr>
+<tr>
+<td>🐙 GitHub</td>
+<td>Code hosting and collaboration</td>
+<td><a href="https://docs.github.com/">GitHub Docs</a></td>
+</tr>
+</table>
 
 <div align="center">
 
-`Frontend` &nbsp; → &nbsp; `Flask Routes` &nbsp; → &nbsp; `Python Logic`
+`PRESENTATION` &nbsp; → &nbsp; `APPLICATION LOGIC` &nbsp; → &nbsp; `RESPONSE`
 
 </div>
 
@@ -324,124 +371,104 @@ These are possible enhancements. Keep only features that are implemented and ver
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=04%20%20%2F%2F%20%20PRODUCT%20SHOWCASE&fontSize=22&fontColor=FFFFFF" alt="Showcase section header"/>
 
-# ◈ 04 / THE PRODUCT
-
-### Show the real application, not just the code
+### Don't just show the code. Show the experience.
 
 </div>
 
 <div align="center">
 
-<!-- Upload your actual screenshot to assets/preview.png and uncomment this image. -->
+<!-- Upload your actual screenshot to assets/preview.png. -->
+<!-- Then uncomment the image below. -->
 
-<!-- <img src="assets/preview.png" width="96%" alt="Google Keep Clone application preview"/> -->
+<!-- <img src="assets/preview.png" width="96%" alt="Google Keep Clone application screenshot"/> -->
 
-<img src="https://placehold.co/1200x620/0B1120/A5B4FC?font=montserrat&text=YOUR+PRODUCT+SCREENSHOT" width="96%" alt="Temporary application screenshot placeholder"/>
+<img src="https://placehold.co/1200x620/0B1120/A5B4FC?font=montserrat&text=YOUR+APPLICATION+PREVIEW" width="96%" alt="Placeholder for real application screenshot"/>
 
-<sub>Replace the placeholder with a screenshot of your actual application.</sub>
+<sub>Replace the placeholder with a screenshot from your running application.</sub>
 
 </div>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**01 · Homepage**
-
-<br/>
-
-Present the application's real interface.
-
-</td>
-<td align="center" width="33%">
-
-**02 · User Interaction**
-
-<br/>
-
-Show an implemented note management workflow.
-
-</td>
-<td align="center" width="33%">
-
-**03 · Responsive View**
-
-<br/>
-
-Show the application on a smaller screen.
-
-</td>
-</tr>
-</table>
+| 🖥️ Desktop | ✍️ Note Interaction | 📱 Mobile |
+|:---:|:---:|:---:|
+| Main application interface | An implemented user workflow | Responsive application view |
 
 </div>
 
-### Add your own screenshot
+<details>
+<summary><strong>📸 Add your own screenshots</strong></summary>
 
-Create an `assets` directory, upload your screenshot as `preview.png`, and replace the placeholder with:
+1. Create an `assets` folder in your repository.
+2. Upload your application screenshot as `assets/preview.png`.
+3. Replace the placeholder image with the following:
 
 ```html
 <img src="assets/preview.png" width="96%" alt="Google Keep Clone application preview"/>
 ```
 
-A genuine screenshot will make the repository feel much more like a finished product.
+You can add more screenshots for different pages or states. Use genuine application screenshots rather than generic placeholder graphics.
+
+</details>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=05%20%20%2F%2F%20%20GITHUB%20ANALYTICS&fontSize=22&fontColor=FFFFFF" alt="Analytics section header"/>
 
-# ◈ 05 / DEVELOPER ANALYTICS
-
-### A visual overview of your GitHub activity
+### Developer activity at a glance
 
 </div>
 
 <div align="center">
 
 <a href="https://github.com/maahii-in">
-<img src="https://github-readme-stats.vercel.app/api?username=maahii-in&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/maahii-in">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahii-in&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Programming language chart"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maahii-in&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub profile statistics"/>
+</a><a href="https://github.com/maahii-in">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahii-in&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Programming language distribution"/>
 </a>
 
 <br/><br/>
 
 ### Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=maahii-in&theme=tokyonight&hide_border=true&border_radius=12" width="82%" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=maahii-in&theme=tokyonight&hide_border=true&border_radius=12" width="82%" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-### Activity Graph
+### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maahii-in&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maahii-in&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
 <br/><br/>
 
-### Profile Achievements
+### Achievement Gallery
 
-<img src="https://github-profile-trophy.vercel.app/?username=maahii-in&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub achievement cards"/>
+<img src="https://github-profile-trophy.vercel.app/?username=maahii-in&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub achievements"/>
+
+<br/><br/>
+
+<a href="https://github.com/maahii-in?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MORE_PROJECTS-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 </div>
 
 <details>
-<summary><strong>About the graphs and statistics</strong></summary>
+<summary><strong>📊 Understanding the graphs</strong></summary>
 
-These visualizations are generated dynamically by third-party services.
+These visualizations are generated dynamically by external services.
 
-- Account statistics summarize available GitHub activity.
-- The language chart covers repositories across the account, not just this project.
-- The streak and activity graph visualize qualifying contribution activity.
-- Achievement cards display trophies calculated by the provider.
+- Account statistics show available profile-level information.
+- The language chart covers detected languages across the account's repositories.
+- The streak tracker displays qualifying contribution activity.
+- The activity graph presents contribution history.
+- The achievement cards display trophies calculated by the provider.
 
-These are account-level visualizations rather than project performance metrics. Their availability depends on the external services and the information they can access.
+These are account-level statistics, not verified measures of this individual project's quality or performance. Availability depends on third-party services and public account data.
 
 </details>
 
@@ -449,11 +476,9 @@ These are account-level visualizations rather than project performance metrics. 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=06%20%20%2F%2F%20%20SYSTEM%20DESIGN&fontSize=22&fontColor=FFFFFF" alt="Architecture section header"/>
 
-# ◈ 06 / SYSTEM ARCHITECTURE
-
-### A visual model of frontend and backend communication
+### A visual representation of the application
 
 </div>
 
@@ -468,8 +493,8 @@ flowchart TB
     end
 
     subgraph BACKEND["APPLICATION LAYER"]
-        FLASK["Flask Routes"]
-        PYTHON["Python Logic"]
+        ROUTES["Flask Routes"]
+        LOGIC["Python Logic"]
     end
 
     DATA[("Data Storage<br/>If Implemented")]
@@ -477,19 +502,19 @@ flowchart TB
     USER <--> HTML
     HTML --- CSS
     HTML <--> JS
-    JS <--> FLASK
-    FLASK <--> PYTHON
-    PYTHON <--> DATA
+    JS <--> ROUTES
+    ROUTES <--> LOGIC
+    LOGIC <--> DATA
 
     classDef user fill:#312E81,stroke:#818CF8,color:#FFFFFF
     classDef front fill:#082F49,stroke:#22D3EE,color:#FFFFFF
     classDef back fill:#064E3B,stroke:#34D399,color:#FFFFFF
-    classDef storage fill:#4A044E,stroke:#E879F9,color:#FFFFFF
+    classDef store fill:#4A044E,stroke:#E879F9,color:#FFFFFF
 
     class USER user
     class HTML,CSS,JS front
-    class FLASK,PYTHON back
-    class DATA storage
+    class ROUTES,LOGIC back
+    class DATA store
 ```
 
 ### Request lifecycle
@@ -498,58 +523,88 @@ flowchart TB
 sequenceDiagram
     autonumber
     actor User
-    participant Browser as Frontend
-    participant Flask as Backend
+    participant UI as Browser Interface
+    participant Flask as Flask Backend
     participant Logic as Python Logic
-    participant Store as Storage
+    participant DB as Storage Layer
 
-    User->>Browser: Perform supported action
-    Browser->>Flask: Send request
-    Flask->>Logic: Process application logic
-    opt Storage is configured
-        Logic->>Store: Read or write data
-        Store-->>Logic: Return result
+    User->>UI: Perform a supported action
+    UI->>Flask: Send HTTP request
+    Flask->>Logic: Process request
+
+    opt Persistent storage is configured
+        Logic->>DB: Read or update data
+        DB-->>Logic: Return result
     end
-    Logic-->>Flask: Return response data
-    Flask-->>Browser: Send HTTP response
-    Browser-->>User: Update interface
+
+    Logic-->>Flask: Return application result
+    Flask-->>UI: Send HTTP response
+    UI-->>User: Display the result
 ```
 
-*These diagrams illustrate a proposed application architecture. Adjust them to reflect the actual source code and implemented data flow.*
+*These diagrams represent a conventional architecture and workflow. Adjust them to match the actual implementation.*
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=07%20%20%2F%2F%20%20PROJECT%20STRUCTURE&fontSize=22&fontColor=FFFFFF" alt="Structure section header"/>
 
-# ◈ 07 / GETTING STARTED
-
-### Set up your development environment
+### Organized code makes better projects
 
 </div>
 
-#### Prerequisites
+```text
+first-pratice-2021/
+│
+├── .vscode/           # Editor configuration
+├── templates/         # HTML templates
+├── .gitignore         # Git ignore configuration
+├── README.md          # Project documentation
+├── app_v2.py          # Potential application entry point
+├── app.py.txt         # Verify and rename if appropriate
+├── animi.txt          # Supporting file
+├── fasta3.txt         # Supporting file
+├── fasta4.txt         # Supporting file
+├── fastmain.txt       # Supporting file
+└── info.txt           # Project information
+```
+
+The structure reflects the files visible in your repository screenshot. Verify the purpose of each file before finalizing this section.
+
+**Recommended cleanup:** If `app.py.txt` contains your actual Python application code, rename it to `app.py` if appropriate and document the correct startup command.
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=08%20%20%2F%2F%20%20INSTALLATION&fontSize=22&fontColor=FFFFFF" alt="Installation section header"/>
+
+### From source code to a running application
+
+</div>
+
+### Requirements
 
 - Python 3
 - pip
 - Git
 - A modern web browser
 
-#### 01 — Clone the repository
+### 01 — Clone the repository
 
 ```bash
 git clone https://github.com/maahii-in/first-pratice-2021.git
 cd first-pratice-2021
 ```
 
-#### 02 — Create a virtual environment
+### 02 — Create a virtual environment
 
 ```bash
 python -m venv venv
 ```
 
-#### 03 — Activate the environment
+### 03 — Activate the environment
 
 **Windows**
 
@@ -563,152 +618,173 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-#### 04 — Install dependencies
+### 04 — Install dependencies
 
-If the repository contains a `requirements.txt` file:
+If `requirements.txt` exists:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Otherwise, install the actual dependencies required by the application. For a basic Flask application:
+Otherwise, install the dependencies actually used by the application. For a basic Flask application:
 
 ```bash
 pip install Flask
 ```
 
-#### 05 — Launch the application
+### 05 — Run the application
 
-If `app_v2.py` is the main application file:
+If `app_v2.py` is the main entry point:
 
 ```bash
 python app_v2.py
 ```
 
-Replace the filename if the actual entry point differs.
+Replace the filename if a different file starts the Flask application.
 
-#### 06 — Open in your browser
+### 06 — Open the application
 
-Visit the local address printed in your terminal, commonly:
+Visit the local address shown in your terminal, commonly:
 
 ```text
 http://127.0.0.1:5000
 ```
 
 <details>
-<summary><strong>Troubleshooting guide</strong></summary>
+<summary><strong>⚠️ Common problems and solutions</strong></summary>
 
-| Problem | What to check |
+| Problem | Suggested action |
 |---|---|
-| Python command fails | Confirm Python is installed and available on PATH |
-| Missing module | Activate the virtual environment and install the dependency |
-| Application fails to start | Inspect the terminal error and verify the entry-point filename |
-| Page returns 404 | Confirm that the requested Flask route exists |
-| Port is unavailable | Check whether another process is using the configured port |
+| Python is not recognized | Verify the Python installation and PATH |
+| Missing module | Activate the environment and install the required package |
+| Application fails to start | Inspect the traceback and verify the entry point |
+| Page returns 404 | Check the configured Flask routes |
+| Port already in use | Check which process occupies the port |
 
 </details>
 
-> Use Flask's development server for local testing. A public deployment should use an appropriate production server and configuration.
+> Use Flask's development server for local development and testing. Production deployment requires an appropriate server and configuration.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=09%20%20%2F%2F%20%20ROADMAP&fontSize=22&fontColor=FFFFFF" alt="Roadmap section header"/>
 
-# ◈ 08 / ROADMAP
-
-### Where the project can go next
+### A foundation for continuous improvement
 
 </div>
 
 ```mermaid
 flowchart LR
-    A["01 · Foundation"] --> B["02 · Note Management"]
-    B --> C["03 · Search & Labels"]
-    C --> D["04 · Data Persistence"]
-    D --> E["05 · Authentication"]
-    E --> F["06 · Testing & Deployment"]
+    A["01<br/>Foundation"] --> B["02<br/>Note Management"]
+    B --> C["03<br/>Search & Labels"]
+    C --> D["04<br/>Persistent Storage"]
+    D --> E["05<br/>Authentication"]
+    E --> F["06<br/>Testing & Deployment"]
 
-    classDef start fill:#312E81,stroke:#818CF8,color:#FFFFFF
+    classDef first fill:#312E81,stroke:#818CF8,color:#FFFFFF
     classDef future fill:#0F3B56,stroke:#22D3EE,color:#FFFFFF
 
-    class A start
+    class A first
     class B,C,D,E,F future
 ```
 
-| Milestone | Goal | Status |
+| Milestone | Objective | Status |
 |---|---|---|
-| 01 | Review and document existing application | Review |
-| 02 | Implement complete note management | Planned |
-| 03 | Introduce search and categorization | Planned |
-| 04 | Integrate persistent database storage | Planned |
+| 01 | Review and document the existing application | Review |
+| 02 | Complete note creation, editing, and deletion | Planned |
+| 03 | Add search and organization | Planned |
+| 04 | Integrate persistent storage | Planned |
 | 05 | Add authentication and access controls | Planned |
-| 06 | Write automated tests | Planned |
-| 07 | Prepare deployment configuration | Planned |
+| 06 | Introduce automated tests | Planned |
+| 07 | Prepare production deployment | Planned |
 
-*Update the statuses as work is completed. Planned features should not be presented as implemented.*
+### Potential feature extensions
+
+<details>
+<summary><strong>📝 Note management</strong></summary>
+
+Create, edit, delete, pin, archive, and restore notes.
+
+</details>
+
+<details>
+<summary><strong>🔎 Search and organization</strong></summary>
+
+Introduce text search, labels, categories, and optional color coding.
+
+</details>
+
+<details>
+<summary><strong>💾 Persistent storage</strong></summary>
+
+Use SQLite or another suitable database to preserve user data between sessions.
+
+</details>
+
+<details>
+<summary><strong>🔐 Authentication</strong></summary>
+
+Introduce accounts, secure sessions, and authorization for private notes.
+
+</details>
+
+<details>
+<summary><strong>🚀 Deployment</strong></summary>
+
+Add automated testing, production settings, deployment instructions, and error monitoring.
+
+</details>
+
+*Roadmap items represent future possibilities. Update their status as features are implemented and tested.*
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:9333EA" width="100%" alt="Section divider"/>
-
-# ◈ 09 / DEVELOPER PROFILE
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=0:0F172A,40:312E81,75:4F46E5,100:06B6D4&text=BUILT%20WITH%20CURIOSITY&fontSize=24&fontColor=FFFFFF" width="100%" alt="Developer profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:312E81,100:06B6D4&text=10%20%20%2F%2F%20%20THE%20DEVELOPER&fontSize=22&fontColor=FFFFFF" alt="Developer section header"/>
 
 <br/><br/>
 
 <a href="https://github.com/maahii-in">
-<img src="https://github.com/maahii-in.png" width="140" alt="MAHI BUDATI GitHub avatar"/>
+<img src="https://github.com/maahii-in.png" width="145" alt="MAHI BUDATI GitHub avatar"/>
 </a>
 
-## MAHI BUDATI
+# MAHI BUDATI
 
-**Aspiring Developer · Python · Flask · Web Development**
+### Aspiring Developer · Python · Flask · Web Development
 
-Exploring modern web technologies, building practical applications, and continuously improving through hands-on development.
+Building practical applications, exploring new technologies, and improving through hands-on software development.
 
 <br/>
 
 <a href="https://github.com/maahii-in">
-<img src="https://img.shields.io/badge/GITHUB-VIEW_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Developer profile"/>
+<img src="https://img.shields.io/badge/GITHUB-VIEW_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 <a href="https://github.com/maahii-in/first-pratice-2021">
-<img src="https://img.shields.io/badge/PROJECT-VIEW_REPOSITORY-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Project repository"/>
+<img src="https://img.shields.io/badge/PROJECT-EXPLORE-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Project repository"/>
 </a>
 
 <br/><br/>
 
-### Every project is a step forward.
+### ✦ Built with curiosity. Improved through practice. ✦
 
 *Learn continuously. Build thoughtfully. Improve consistently.*
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/maahii-in/first-pratice-2021/stargazers">
-<img src="https://img.shields.io/badge/ENJOYED_THE_PROJECT%3F-LEAVE_A_STAR-F59E0B?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Star project"/>
+<img src="https://img.shields.io/badge/LIKE_THE_PROJECT%3F-LEAVE_A_STAR-F59E0B?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Star the project"/>
 </a>
 
 <br/><br/>
 
 <a href="#top">
-<img src="https://img.shields.io/badge/↑_BACK_TO_TOP-0F172A?style=for-the-badge&logoColor=white" alt="Back to top"/>
+<img src="https://img.shields.io/badge/↑_BACK_TO_TOP-0F172A?style=for-the-badge" alt="Back to top"/>
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06B6D4,25:4F46E5,60:312E81,100:020617" alt="Aurora gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06B6D4,25:4F46E5,60:312E81,100:020617" alt="Decorative gradient footer"/>
 
 </div>
-
----
-
-<div align="center">
-
-<sub>Designed with purpose · Developed with curiosity · Documented for the community</sub>
-
-</div>
-
-<!-- END OF README -->
 
